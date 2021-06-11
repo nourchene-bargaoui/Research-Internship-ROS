@@ -15,6 +15,8 @@ Voir le rapport complet et détaillé via ce lien :
 https://drive.google.com/file/d/1loPUEd9xAOzODOUvMpB7gAxNPcHm_dtd/view?usp=sharing
 
 
+
+
 ![image](https://user-images.githubusercontent.com/83011466/121734674-64179f00-caf5-11eb-9b18-6e7d63492aa3.png)          ![image](https://user-images.githubusercontent.com/83011466/121734698-6e399d80-caf5-11eb-8491-cd76e4ef91e8.png)   
                  ![image](https://user-images.githubusercontent.com/83011466/121734740-798cc900-caf5-11eb-94c0-8ecb12beae7e.png)    
                  ![image](https://user-images.githubusercontent.com/83011466/121735348-4b5bb900-caf6-11eb-826a-7cdeb0873a2e.png)
