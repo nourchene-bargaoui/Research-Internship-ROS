@@ -1,0 +1,2 @@
+beginner:m2wr_description:openai_ros:robot_training:simulations:trimage
+-DCATKIN_DEVEL_PREFIX=/home/moohamed/catkinwsros/devel -DCMAKE_INSTALL_PREFIX=/home/moohamed/catkinwsros/install -G Unix Makefiles
