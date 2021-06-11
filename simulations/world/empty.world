@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+
+<sdf version="1.6">
+	<world name="Projet">
+	  <!--  <model name="ground">	-->
+
+		<include>
+			<uri >model://sun</uri>
+		</include>
+		<include>
+  			
+  			<uri>model://my_ground_plane</uri>
+			<pose>0 0 0</pose>
+		</include>
+		<!--  <include>
+			<uri >model://mufirst</uri>
+			<pose>1 1 0.5</pose>
+			<name>coke12</name>
+		</include>
+		<include>
+			<uri >model://mufirst</uri>
+			<pose>2 5 0.5</pose>
+			<name>coke12</name>
+		</include>
+		<include>
+			<uri >model://mufirst</uri>
+			<pose>0 -5 0.5</pose>
+			<name>coke13</name>
+		</include>
+		<include>
+			<uri >model://mufirst</uri>
+			<pose>2 -10 0.5</pose>
+			<name>coke14</name>
+		</include>
+		<include>
+			<uri >model://mufirst</uri>
+			<pose>7 10 0.5</pose>
+			<name>coke15</name>
+		</include>
+		<include>
+			<uri >model://mufirst</uri>
+			<pose>10 10 0.5</pose>
+			<name>coke16</name>
+		</include>
+		<include>
+			<uri >model://mufirst</uri>
+			<pose>-3 1 0.5</pose>
+			<name>coke17</name>
+		</include>
+		<include>
+			<uri >model://mufirst</uri>
+			<pose>-5 -5 0.5</pose>
+			<name>coke18</name>
+		</include> -->
+	  <!-- </model> -->
+	</world>
+</sdf>
