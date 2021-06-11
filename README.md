@@ -1,5 +1,10 @@
 # Stage-de-Recherche-ROS
 
+This project was carried out as part of a research internship at the National Institute of Applied Sciences and Technology, within the Sumsung Lab Academy
+
+![image](https://user-images.githubusercontent.com/83011466/121747457-bd88c980-cb07-11eb-9bb8-cf8393daa4ee.png)
+
+
 The main purpose of this project is to create an autonomous robot that will
 use a camera to navigate in an environment similar to the roads of the car.
 This will be done using a reinforcement learning algorithm.
