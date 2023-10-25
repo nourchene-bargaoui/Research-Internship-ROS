@@ -1,4 +1,4 @@
-# Stage-de-Recherche-ROS
+# Research-Internship-ROS
 
 This project was carried out as part of a research internship at the National Institute of Applied Sciences and Technology, within the Sumsung Lab Academy
 
